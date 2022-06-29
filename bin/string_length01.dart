@@ -9,4 +9,9 @@
 
 void main() {
   // write your code here
+  func("salom");
+}
+
+func(text) {
+  return text.length;
 }
